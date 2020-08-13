@@ -39,9 +39,9 @@ Save and run the job.
 
 # *Jenkins CD Job:* `Deploy_on_Kubernetes-CD`
 
-### Steps to create "Deploy_on_Kubernetes_CI" Jenkin job
+### Steps to create "Deploy_on_Kubernetes_CD" Jenkin job
 #### From Jenkins home page select "New Item"
-   - Enter an item name: `Deploy_on_Kubernetes_CI`
+   - Enter an item name: `Deploy_on_Kubernetes_CD`
      - Freestyle Project
 	 
   - *Post-build Actions*  
